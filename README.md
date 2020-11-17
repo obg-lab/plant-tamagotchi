@@ -29,6 +29,6 @@ Nesse projeto eu estou usando:
 
 ## Fale comigo nas rede
 
-Instagram: [@egermano](https://instagram.com/egermano)
-Twitter: [@egermano](https://twitter.com/egermano)
-Discord: [O Bruno Germano] (<https://discord.gg/5qkXsNExqT>)
+Instagram: [@egermano](https://instagram.com/egermano) |
+Twitter: [@egermano](https://twitter.com/egermano) |
+Discord: [O Bruno Germano](<https://discord.gg/5qkXsNExqT>)
